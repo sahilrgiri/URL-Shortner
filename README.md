@@ -38,5 +38,3 @@ Users should be able to:
 - [Express](https://expressjs.com/) - Nodejs framework
 - [MongoDB](https://www.mongodb.com/) - NoSQL databases
  
-## Contributing
-If you want to contribute to this project, you can report issues, suggest new features, or submit pull requests on GitHub. Please follow the code of conduct and the contribution guidelines before making any changes.
